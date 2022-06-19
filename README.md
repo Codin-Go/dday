@@ -1,4 +1,2 @@
 # dday
-
-- Founded date ranked by Market Capt.
-- and Next? 
+Founded date ranked by Market Capt. and Next? 
